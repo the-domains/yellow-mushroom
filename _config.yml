@@ -1,0 +1,14 @@
+layout_spectrum: 0.7837226253468543
+typography_spectrum: 0.529176423791796
+color:
+  brandStrength: 0.23734729690477252
+  lightness: 0.2993338331580162
+  saturation: 0.015218604356050491
+  rhythmicContrast: 0.3729790945071727
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: Yellow Mushroom
